@@ -6,6 +6,7 @@ This is a simple web page
 
 ## Purpose
 
+This is example to show different parts of the comparing
 ## Deploy
 
 ## How To Contribute
