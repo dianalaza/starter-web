@@ -8,7 +8,11 @@ This is a simple web page
 
 This is example to show different parts of the comparing
 ## Deploy
+deploy description
 
+
+
+sss
 ## How To Contribute
 
 Sample website with plenty of files for demos
