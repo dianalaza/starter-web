@@ -15,6 +15,8 @@ deploy description
 sss
 ## How To Contribute
 
+Please fork this repository and then issue Pull request
+
 Sample website with plenty of files for demos
 
 ### Copyright
