@@ -16,3 +16,5 @@ sss
 ## How To Contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
